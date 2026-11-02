@@ -1,2 +1,2 @@
 Welcome to the Test Automation Project
-Version: 3.0 (updated in main)
+Version: 2.0 (updated in conflict-demo)
